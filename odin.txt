@@ -1,1 +1,3 @@
-nombre de mi perro es odin y tiene 3 años, es el mas mamido del mundo y mi mejor compañia
+nombre de mi perro es odin y tiene 3 años
+mi perro es un shitzu llamado Renata
+>>>>>>> 1220e524eaa07cb084f15b38cda006bb8d6d7156
